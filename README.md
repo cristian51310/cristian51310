@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="250" src="./public/avatar.jpg" />
+   <img align="center" width="250" src="./public/photo.jpeg" />
    <h3 align="center">¡Hola 👋! Me llamo cristian 👨🏻‍💻</h3>
 </p>
 
