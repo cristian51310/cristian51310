@@ -1,18 +1,20 @@
-### Hola, Me llamo Cristian 👋
+## Hi there 👋 I'm [Cristian Ruben Figueroa Espinoza](https://cristianfigueroa.dev)
 
-![700shots_so](https://github.com/cristian51310/cristian51310/assets/105263575/7da43ff9-ff68-4465-b436-4414eb92dbf6)
+![Cristian Rubén Figueroa Espinoza](https://github.com/cristian51310/cristian51310/assets/105263575/a57f7b90-256a-4a4d-8c1c-65e48aa3030c)
 
-<!--
-**cristian51310/cristian51310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <p>
+    Full Stack programmer passionate about technology and software development. I have experience in creating user interfaces with web and mobile technologies using hybrid technologies, creating APIs with NodeJs and managing relational and non-relational databases.
+  </p>
+  <p>
+    I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
+  </p>
+</div>
 
-Here are some ideas to get you started:
+<h3> 🤝🏻 Connect with Me </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+<a href="https://cristianfigueroa.dev/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.cristianfigueroa.dev-93F0C7?style=flat&logo=google-chrome"></a>
+<a href="https://mx.linkedin.com/cristianruben/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-@cristianruben-blue?style=flat&logo=linkedin"></a>
+<a href="mailto:cristian.figueroa.crfe@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-cristian.figueroa.dev@gmail.com-C0B1F8?style=flat&logo=gmail"></a>
+</p>
