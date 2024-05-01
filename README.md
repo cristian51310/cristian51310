@@ -16,5 +16,5 @@
 <p>
 <a href="https://cristianfigueroa.dev/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.cristianfigueroa.dev-93F0C7?style=flat&logo=google-chrome"></a>
 <a href="https://mx.linkedin.com/cristianruben/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-@cristianruben-blue?style=flat&logo=linkedin"></a>
-<a href="mailto:cristian.figueroa.crfe@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-cristian.figueroa.dev@gmail.com-C0B1F8?style=flat&logo=gmail"></a>
+<a href="mailto:cristian.figueroa.crfe@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-cristian.figueroa.crfe@gmail.com-C0B1F8?style=flat&logo=gmail"></a>
 </p>
